@@ -1,0 +1,35 @@
+"Label": {
+	left:5,
+	color: "#000"
+}
+
+"#row":{
+	height:150,
+	layout:'horizontal',
+	backgroundColor:'white'
+}
+
+
+"#poster_path":{
+	left:5,
+	top:5,
+	bottom:5,
+	width:110
+}
+
+"#view_001":{
+	layout:'vertical',
+	left:5,
+	width:Titanium.UI.FILL,
+	height:150
+}
+
+"#title":{
+	left:5,
+	right:5,
+	top:10,
+	color:'red',
+	font: {
+		fontSize: 20
+	}
+}

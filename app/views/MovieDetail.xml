@@ -1,0 +1,15 @@
+<Alloy>
+	<Window title="Details" layout="horizontal" backgroundColor="white">
+		
+		<ImageView id="poster_path"></ImageView>
+		
+		<View id="view_001">
+			<Label id="title_movie"></Label>
+			<Label id="release_date"></Label>
+			<Label id="original_language"></Label>
+			<Label id="popularity"></Label>					
+		</View>
+		
+		<Label id="overview"></Label>	
+	</Window>
+</Alloy>

@@ -1,0 +1,18 @@
+<Alloy>
+    <Window id="win" title="Settings" backgroundColor="white" layout="vertical">
+
+		<Label left="5" top="10">Search for:</Label>
+		<Label left="5" id="value_search" onClick="showOptions">Movies Playing</Label>
+		
+        <OptionDialog id="dialog" title="Search for:" onClick="clickOption">
+
+            <!-- The Options tag sets the options property. -->
+            <Options>
+                <Option>Movies Playing</Option>
+                <Option>Upcoming</Option>
+            </Options>
+
+        </OptionDialog>
+
+    </Window>
+</Alloy>

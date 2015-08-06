@@ -1,0 +1,8 @@
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/com/wdanascimento/listmovie/ApplicationStylesheet.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/com/wdanascimento/listmovie/AssetCryptImpl.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/com/wdanascimento/listmovie/ListmovieActivity.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/com/wdanascimento/listmovie/ListmovieAppInfo.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/com/wdanascimento/listmovie/ListmovieApplication.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/com/wdanascimento/listmovie/R.java"
+"C:/Users/wellerson.nascimento/Documents/Appcelerator_Studio_Workspace/ListMovie/build/android/gen/ti/modules/titanium/ui/R.java"

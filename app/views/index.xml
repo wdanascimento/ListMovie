@@ -1,0 +1,27 @@
+<Alloy>
+	<Window title="Movies">
+		
+		<Menu platform="android">
+			<MenuItem id="settingsMenu" title="Settings" onClick="openSettings"></MenuItem>
+			<MenuItem id="refreshMenu" title="refresh"></MenuItem>
+		</Menu>
+		
+		<TableView id="filmesTableView" dataCollection="Filmes" onClick="showDetails">
+			
+			<TableViewRow id="row" rowid="{id}" >
+				
+				<ImageView id="poster_path" image="{poster_path}"></ImageView>
+				
+				<View id="view_001">
+					<Label id="title" text="{title}"></Label>
+					<Label id="release_date" text="{release_date}"></Label>
+					<Label id="original_language" text="{original_language}"></Label>
+					<Label id="popularity" text="{popularity}"></Label>					
+				</View>
+				
+			</TableViewRow>
+			
+		</TableView>
+		
+	</Window>
+</Alloy>
